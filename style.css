@@ -33,3 +33,6 @@ main {
 .hero h2 {
     color: #333;
 }
+.cta-button {
+    display: inline-block;
+}
