@@ -10,5 +10,3 @@
         </section>
         <?php require "partials/footer.php";
 ?>
-</body>
-</html>

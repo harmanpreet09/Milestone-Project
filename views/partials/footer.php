@@ -3,3 +3,5 @@
             <p>&copy; 2023 Gym Website. All rights reserved.</p>
         </div>
     </footer>
+    </body>
+</html>
