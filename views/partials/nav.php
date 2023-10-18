@@ -6,9 +6,9 @@
             <nav>
                 <ul>
                     <li><a href="/">Home</a></li>
-                    <li><a href="/about.php">About</a></li>
-                    <li><a href="/Registration.php">Registration</a></li>
-                    <li><a href="/contact.php">Contact us</a></li>
+                    <li><a href="about.php">About</a></li>
+                    <li><a href="Registration.php">Registration</a></li>
+                    <li><a href="contact.php">Contact us</a></li>
                 </ul>
             </nav>
         </div>
