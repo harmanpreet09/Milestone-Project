@@ -88,6 +88,30 @@ main {
     color: #555;
     margin: 0;
 }
+.testimonials {
+    
+        background: linear-gradient(to right, #decece, #ed002e);
+        padding: 50px 0;
+        text-align: center;
+        color: black;
+
+}
+
+.testimonials .testimonial {
+    margin: 20px 0;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.testimonials .testimonial p {
+    font-size: 1.2em;
+}
+
+.testimonials .testimonial span {
+    font-weight: bold;
+}
 footer {
     background-color: #333;
     color: white;

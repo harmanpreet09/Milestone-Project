@@ -39,5 +39,18 @@
                 </div>
             </div>
         </section>
+        <section class="testimonials">
+    <div class="container">
+        <h2>What Our Clients Say</h2>
+        <div class="testimonial">
+            <p>"Joining this gym was the best decision I've ever made. The trainers are amazing and the atmosphere is so motivating."</p>
+            <span>- John Doe, Happy Client</span>
+        </div>
+        <div class="testimonial">
+            <p>"I've achieved my fitness goals in record time, all thanks to the dedicated trainers and well-structured programs."</p>
+            <span>- Jane Smith, Satisfied Client</span>
+        </div>
+    </div>
+</section>
         <?php require "partials/footer.php";
 ?>
