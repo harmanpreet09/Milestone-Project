@@ -2,7 +2,7 @@
 ?>
 <?php require "partials/nav.php";
 ?>
-    <section class="hero">
+    <section class="hero_2 hero">
             <div class="container">
                 <h2>Wlecome to Registration</h2>
                
