@@ -41,3 +41,6 @@ main {
     text-decoration: none;
     border-radius: 5px;
 }
+.cta-button:hover {
+    background-color: #555;
+}
