@@ -1,2 +1,2 @@
 <?php
-require "registration.view.php";
+require "views/registration.view.php";
