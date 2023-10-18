@@ -67,6 +67,21 @@ main {
     margin-right: 30px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+.service-info {
+    flex: 1;
+}
+
+.service h3 {
+    font-size: 1.5em;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.service p {
+    font-size: 1.1em;
+    color: #555;
+    margin: 0;
+}
 footer {
     background-color: #333;
     color: white;
