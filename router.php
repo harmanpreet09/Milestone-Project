@@ -19,3 +19,4 @@ function abort($code = 404){
     require "views/{$code}.php";
      die();
 }
+routeToController($uri, $routes);
