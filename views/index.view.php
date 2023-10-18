@@ -17,6 +17,7 @@
                 <a href="#" class="cta-button">Get Started</a>
             </div>
         </section>
-       
+        <?php require "partials/footer.php";
+?>
 </body>
 </html>
