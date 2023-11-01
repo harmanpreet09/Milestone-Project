@@ -1,3 +1,5 @@
 So in about Page I would like to increase the text for the hero heading that i feel like to be catchy in first page
 I would like to delete the welcome to registration because it already show in the form Register now.
 In the registration Page I would like to change the color of the heading in the contact form because that need to be seprate visibe.
+
+I would like to evalute my code 2.5 out of 4
