@@ -166,7 +166,7 @@ main {
     }
 }
 
-.testimonials {
+/* .testimonials {
     
         background: linear-gradient(to right, #decece, #ed002e);
         padding: 50px 0;
@@ -189,7 +189,55 @@ main {
 
 .testimonials .testimonial span {
     font-weight: bold;
+} */
+/* Style the section container */
+/* Style the section container */
+.testimonials {
+    background-color: #9f9696;
+    color: #fff;
+    padding: 60px 0;
+    text-align: center;
 }
+
+/* Style the section heading */
+.testimonials h1 {
+    font-size: 36px;
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+/* Style individual testimonials */
+.testimonial {
+    background-color: #444;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 20px 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    text-align: left;
+}
+
+/* Style the testimonial text */
+.testimonial p {
+    font-size: 18px;
+    color: #fff;
+    margin: 20px 0;
+    line-height: 1.5;
+}
+
+/* Style the client's name and title */
+.testimonial span {
+    font-size: 16px;
+    color: #bbb;
+}
+
+/* Media query for responsiveness */
+@media (max-width: 768px) {
+    .testimonial {
+        margin: 0 20px 20px;
+    }
+}
+
+
 .hero_1{
     background-image: url('images/bg_1.jpg'); /* Replace with your image */
     background-size: cover;
