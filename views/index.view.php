@@ -2,14 +2,19 @@
 ?>
 <?php require "partials/nav.php";
 ?>
-
+ <div class="bg-image">
     <section class="hero">
+   
             <div class="container">
+                
                 <h2>Your Fitness Journey Begins Here</h2>
                 <p>Join our gym and start your path to a healthier lifestyle.</p>
                 <a href="#" class="cta-button">Get Started</a>
+                
             </div>
+            
         </section>
+        </div>
         <section class="services">
             <div class="container center-content">
             <h2>Our Best Services</h2>
