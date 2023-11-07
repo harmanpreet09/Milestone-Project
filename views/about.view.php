@@ -22,5 +22,6 @@
                 aliquip ex ea commodo consequat.</p>
         </div>
     </section>
+        
         <?php require "partials/footer.php";
 ?>
