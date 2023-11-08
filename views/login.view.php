@@ -1,3 +1,4 @@
+
 <?php 
 
 session_start();
@@ -44,7 +45,6 @@ session_start();
 	}
 
 ?>
-
 <?php require "partials/head.php";
 ?>
 <?php require "partials/nav.php";
