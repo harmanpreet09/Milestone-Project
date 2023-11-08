@@ -22,6 +22,13 @@ header nav a {
     color: white;
     font-weight: bold;
 }
+.login{
+    float: right;
+    margin-right: 44px;
+    background: black;
+    padding: 7px;
+    border-radius: 7px;
+}
 main {
     padding:  0;
 }

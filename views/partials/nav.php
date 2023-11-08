@@ -9,7 +9,9 @@
                     <li><a href="about.php">About</a></li>
                     <li><a href="Registration.php">Registration</a></li>
                     <li><a href="contact.php">Contact us</a></li>
+                    <li class="login"><a href="login.php">Login</a></li>
                 </ul>
             </nav>
+           
         </div>
     </header>
