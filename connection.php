@@ -1,5 +1,5 @@
 <?php
 $dbhost="localhost";
-$dbuser="localhost";
-$dbpass="localhost";
+$dbuser="root";
+$dbpass="";
 $dbname="login_database";
