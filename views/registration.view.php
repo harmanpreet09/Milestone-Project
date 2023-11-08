@@ -1,3 +1,8 @@
+
+<?php
+include("connection.php");
+include("functions.php");
+?>
 <?php require "partials/head.php";
 ?>
 <?php require "partials/nav.php";
