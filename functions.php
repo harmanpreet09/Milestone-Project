@@ -1,6 +1,6 @@
-<?php
+<!--  -->
 
-function check_login($con)
+<!-- function check_login($con)
 {
 
 	if(isset($_SESSION['user_id']))
@@ -22,9 +22,9 @@ function check_login($con)
 	
 	die;
 
-}
+} -->
 
-function random_num($length)
+<!-- function random_num($length)
 {
 
 	$text = "";
@@ -35,11 +35,11 @@ function random_num($length)
 
 	$len = rand(4,$length);
 
-	for ($i=0; $i < $len; $i++) { 
-		# code...
+	for ($i=0; $i < $len; $i++) {  -->
+		<!-- # code...
 
 		$text .= rand(0,9);
 	}
 
 	return $text;
-}
+} -->
