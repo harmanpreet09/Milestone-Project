@@ -3,8 +3,8 @@
 
 session_start();
 
-	include("connection.php");
-	include("functions.php");
+include($proj_root . "connection.php");
+include($proj_root . "functions.php");
 
 
 	if($_SERVER['REQUEST_METHOD'] == "POST")
