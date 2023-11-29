@@ -13,3 +13,11 @@ var_dump($username, $password, $user_data);
 // Comment out the line below after debugging
 // die;
 
+## Stack Trace:
+
+// Stack Trace
+$stackTrace = debug_backtrace();
+var_dump($stackTrace);
+// Comment out the line below after debugging
+// die;
+
