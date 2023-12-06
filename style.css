@@ -418,4 +418,10 @@ footer {
     color: white;
     text-align: center;
     padding: 20px 0;
+    margin-top: 20%;
+}
+.success-message {
+    color: green;
+    font-weight: bold;
+    margin-top: 10px;
 }
