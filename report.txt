@@ -1,0 +1,4 @@
+Completing our milestone project is like building a puzzle – we need to take it step by step. First, let's fix the things that are broken (bugs). We'll focus on the big issues first and then tackle the smaller ones. After that, we'll add some cool new features. But wait, we can't do everything! Let's pick the most important features that will make our website awesome.
+To keep things organized, we'll use GitHub. It's like our project's to-do list. Each bug or feature gets its own task on GitHub, and we can see the progress. Teamwork is crucial, so let's make sure everyone knows what they're doing.
+
+But still there are many such things that can be implemented in the project but some things are manageable. 
